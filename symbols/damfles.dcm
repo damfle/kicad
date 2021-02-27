@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AllwinnerH3
+D Allwinner H3 SOC
+K Allwinner H3 Cortex
+$ENDCMP
+#
+$CMP AllwinnerH3-NONC
+D Allwinner H3 SOC
+K Allwinner H3 Cortex
+$ENDCMP
+#
+$CMP LTC223x
+D LTC223x Low Noise 25-105Msps 10Bit ADC
+K LTC223x Low Noise 25-105Msps 10Bit ADC
+$ENDCMP
+#
+$CMP LTC228x
+D LTC228x Low Noise 25-105Msps 10Bit Dual ADC
+K LTC228x Low Noise 25-105Msps 10Bit Dual ADC
+$ENDCMP
+#
+$CMP PCIEx1
+D PCIEx1 PINOUT
+K PCIEx1 PCIE
+$ENDCMP
+#
+$CMP RJ45-TRANSFO
+D RJ45 with transformer + leds WURTH
+K RJ45
+F ~
+$ENDCMP
+#
+$CMP S34ML02G200TFI003
+D 1GB NAND SLC
+K NAND FLASH NOR SLC MLC 
+$ENDCMP
+#
+#End Doc Library
